@@ -7,7 +7,7 @@ Aqui estão organizados os códigos dos exercícios propostos do curso de **Pyth
 </div>
 
 <br>
-# :computer: Conteúdo estudado
+#:computer:Conteúdo estudado
 
 ### Módulo 1 - Basics
 1. Tipos de Variáveis  
