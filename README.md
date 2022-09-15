@@ -6,8 +6,7 @@ Aqui estão organizados os códigos dos exercícios propostos do curso de **Pyth
     <img alt="Python" height="250" width="250" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-<br>
-#:computer:Conteúdo estudado
+# :computer: Conteúdo estudado
 
 ### Módulo 1 - Basics
 1. Tipos de Variáveis  
