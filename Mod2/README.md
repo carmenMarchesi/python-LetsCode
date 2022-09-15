@@ -24,9 +24,20 @@
 
 <br>
 
-> **4.** Faça um programa que imprima a tabuada do 9 (de 9x1 a 9x10) usando loops.
+> **4.** Crie um dicionário cujas chaves são os meses do ano e os valores são a duração (em dias) de cada mês.
 >
 > [:mag: Ver código](Exercicio4-5.ipynb)
 
+<br>
+
+> **5.** Imprima as chaves seguidas dos seus valores para o dicionário criado no exercício anterior.
+>
+> __Exemplo:__
+> *Janeiro - 31*
+> *Fevereiro - 31*
+> *Março - 31*
+> *Etc...*
+>
+> [:mag: Ver código](Exercicio4-5.ipynb)
 
 
