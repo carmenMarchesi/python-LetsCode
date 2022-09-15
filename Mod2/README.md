@@ -33,10 +33,10 @@
 > **5.** Imprima as chaves seguidas dos seus valores para o dicionário criado no exercício anterior.
 >
 > __Exemplo:__
-> *Janeiro - 31*
-> *Fevereiro - 31*
-> *Março - 31*
-> *Etc...*
+> *Janeiro - 31*  
+> *Fevereiro - 31*    
+> *Março - 31*  
+> *Etc...*  
 >
 > [:mag: Ver código](Exercicio4-5.ipynb)
 
