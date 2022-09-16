@@ -19,7 +19,7 @@ Para os exercícios 1 o 3 você precisará do arquivo alunos.csv.
 >
 > Aqui você também não precisa utilizar a biblioteca CSV novamente, mas se usar seu código pode ser reutilizado na próxima questão sem muitas modificações.
 >
-> [:mag: Ainda a realizar]()
+> [:mag: Ver código](Exercicio2.ipynb)
 >  
 
 <br>
