@@ -28,7 +28,7 @@ Para os exercícios 1 o 3 você precisará do arquivo alunos.csv.
 >
 > Se você utilizou a biblioteca CSV para realizar os dois primeiros exercícios, muito será reaproveitado aqui. A biblioteca CSV permite a interpretação de cada linha como listas, que são fáceis de manipular.
 >
-> [:mag: Ainda a realizar]()
+> [:mag: Ver Código](Exercicio3.ipynb)
 >  
 
 <br>
