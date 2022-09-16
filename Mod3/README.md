@@ -10,7 +10,7 @@ Para os exercícios 1 o 3 você precisará do arquivo alunos.csv.
 >
 > Note que esse é o primeiro exercício de uma sequência, então o seu código pode ser reaproveitado nos exercícios seguintes. Dito isso, a recomendação é usar a biblioteca CSV para ler o arquivo mesmo que não seja realmente necessário para esse primeiro item.
 > 
-> [:mag: Ainda a realizar]()
+> [:mag: Ver código](Exercicio1.ipynb)
 >    
 
 <br>
