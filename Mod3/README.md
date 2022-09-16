@@ -39,9 +39,9 @@ Para os exercícios 1 o 3 você precisará do arquivo alunos.csv.
 >
 > __*Dica:*__ Caso não se lembre de como fazer isso, assista novamente a aula sobre API porque o exemplo da aula pode te ajudar.
 >
-> __*Observações:*__ 
-> A altura vem em centímetros, por isso o cálculo.
->O ano de nascimento quer dizer:
+> __*Observações:*__  
+> A altura vem em centímetros, por isso o cálculo.  
+>O ano de nascimento quer dizer:  
 > __BBY__ = Before the Battle of Yavin
 >
 > [:mag: Ver Código](Exercicio4.ipynb)
