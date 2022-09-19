@@ -56,7 +56,7 @@ Para os exercícios 1 o 3 você precisará do arquivo alunos.csv.
 >
 > Utilize essas informações e retorne a data em que o Brasil confirmou o primeiro caso de COVID.
 >
-> [:mag: Ainda a realizar]()
+> [:mag: Ver Código](Exercicio5.ipynb)
 
 
 
