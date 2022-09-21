@@ -34,7 +34,6 @@ Aqui estão organizados os códigos dos exercícios propostos do curso de **Pyth
 1. Manipulação de Arquivos
 2. Arquivos CSV
 3. APIs
-4. Projeto - Parte 1
-5. Projeto - Parte 2
-6. [Exercícios](/Mod3/)
+4. [Projeto Final](ProjetoFinal.ipynb)
+5. [Exercícios](/Mod3/)
 
